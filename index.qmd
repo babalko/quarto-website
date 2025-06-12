@@ -8,7 +8,8 @@ execute:
 
 ```{r setup}
 #| echo: false
-library(tidyverse)
+library(ggplot2)
+library(dplyr)
 ```
 
 Welcome!
